@@ -18,8 +18,8 @@ I build **multi-agent systems** that operate at scale — domain-specific AI eng
 
 | | Project | Description |
 |:--|:--------|:------------|
-| ◆ | **Parashar** | AI-powered Vedic astrology platform — multi-agent reasoning over classical texts |
-| ◆ | **Guardrail** | Monitoring and observability for multi-agent systems |
+| ◆ | **Stealth project 1** | AI-powered Vedic astrology platform — multi-agent reasoning over classical texts |
+| ◆ | **Stealth project 2** | Monitoring and observability for multi-agent systems |
 | ◆ | **[@0xHashstack](https://github.com/0xHashstack)** | Permissionless under-collateralized lending protocol |
 
 ---
