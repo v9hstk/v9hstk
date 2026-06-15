@@ -10,7 +10,7 @@
 
 ---
 
-I build multi-agent systems that operate at scale — domain-specific AI engines, decentralized finance, and the observability layer to keep them reliable.
+I build **multi-agent systems** that operate at scale — domain-specific AI engines, decentralized finance, and the observability layer to keep them reliable.
 
 ---
 
@@ -18,11 +18,9 @@ I build multi-agent systems that operate at scale — domain-specific AI engines
 
 | | Project | Description |
 |:--|:--------|:------------|
-| ◆ | Parashar | AI-powered Vedic astrology platform — multi-agent reasoning over classical texts |
-| ◆ | Guardrail | Monitoring and observability for multi-agent systems |
-| ◆ | [@0xHashstack](https://github.com/0xHashstack) | Permissionless under-collateralized lending protocol |
-| ◆ | [pmxt](https://github.com/pmxt-dev/pmxt) | Unified API layer for prediction market platforms |
-| ◆ | [Polymarket Agents](https://github.com/v9hstk/Polymarket_agents) | Autonomous AI agents for prediction markets |
+| ◆ | **Parashar** | AI-powered Vedic astrology platform — multi-agent reasoning over classical texts |
+| ◆ | **Guardrail** | Monitoring and observability for multi-agent systems |
+| ◆ | **[@0xHashstack](https://github.com/0xHashstack)** | Permissionless under-collateralized lending protocol |
 
 ---
 
