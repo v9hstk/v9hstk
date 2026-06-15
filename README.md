@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @v9hstk
-- 👀 I’m passionate about ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hey, I'm Vinay
 
-<!---
-v9hstk/v9hstk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build financial infrastructure — DeFi protocols and prediction market tooling.
+
+What I'm working on:
+
+- [@0xHashstack](https://github.com/0xHashstack) — Permissionless under-collateralized lending protocol
+
+- [pmxt](https://github.com/pmxt-dev/pmxt) — Unified trading API for prediction markets (Polymarket, Kalshi, and more)
+
+- AI agents for autonomous prediction market trading
+
+Stack: TypeScript · Solidity · Python · Node.js
+
+[Twitter](https://twitter.com/v9hstk)
