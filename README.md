@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:27272a&height=160&section=header&text=Vinay&fontSize=40&fontColor=fafafa&animation=fadeIn&fontAlignY=35&desc=Multi-Agent%20Systems%20%C2%B7%20Scalable%20AI%20Infrastructure&descAlignY=55&descSize=14&descColor=71717a" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:27272a&height=160&section=header&text=VI&fontSize=40&fontColor=fafafa&animation=fadeIn&fontAlignY=35&desc=Multi-Agent%20Systems%20%C2%B7%20Scalable%20AI%20Infrastructure&descAlignY=55&descSize=14&descColor=71717a" />
 
 <div align="center">
 
